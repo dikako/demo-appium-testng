@@ -20,5 +20,5 @@ jobs:
 
       - name: Run test
         run: |
-          chmod +x ./gardlew
-          .gradlew test
+          chmod +x ./gradlew
+          ./gradlew test
